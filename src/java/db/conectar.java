@@ -21,7 +21,7 @@ public class conectar {
     private static String password = "123";
     public Connection conn;
 
-    public static Connection conectar() {
+    public static Connection getConnection() {
 
         Connection conexion = null;
         try {

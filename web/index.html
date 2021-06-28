@@ -6,11 +6,27 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        
+        
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Restaurante Quileia</title>
     </head>
     <body>
-        <div>TODO write content</div>
+        <nav class="menu" id="menu">
+            <ul>
+                <li>
+                    <a href="Controlador?accion=Menu" onclick="cargarRestaurante()">Restaurantes</a>
+                    <a href="#" onclick="cargarMenu()">Menús</a>
+                </li>
+            </ul>
+        </nav>
+
+        <section class="contenidoDinamico" id="contenidoDinamico">
+
+        </section>
+        
+        <script src="js_General/funcionesMenu.js" type="text/javascript"></script>
+        <script src="js_General/funcionesindex.js" type="text/javascript"></script>
     </body>
 </html>

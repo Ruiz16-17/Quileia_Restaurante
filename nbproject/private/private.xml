@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/Modelo/Menu.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/Vista/Menu.jsp</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/Interfaces/CRUD_Menu.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/Vista/AddMenu.jsp</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/js/funcionesindex.js</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/Modelo/TipoMenu.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/db/conectar.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/Modelo/Ingrediente.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/Interfaces/CRUD_TipoMenu.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/js/funcionesMenu.js</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/Modelo/Restaurante.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/index.html</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/Controlador/CtrlMenu.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/ModeloDAO/MenuDAO.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/src/java/ModeloDAO/TipoMenuDAO.java</file>
+            <file>file:/C:/Users/Ruiz/OneDrive%20-%20Instituto%20Tecnológico%20Metropolitano/Documents/NetBeansProjects/Quileia_Restaurante/web/Vista/EditMenu.jsp</file>
+        </group>
+    </open-files>
+</project-private>

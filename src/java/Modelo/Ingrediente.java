@@ -17,8 +17,8 @@ public class Ingrediente {
     public Ingrediente() {
     }
 
-    public Ingrediente(int Id, String Nombre, int Calorias) {
-        this.Id = Id;
+    public Ingrediente(String Nombre, int Calorias) {
+        
         this.Nombre = Nombre;
         this.Calorias = Calorias;
     }

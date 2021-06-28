@@ -22,8 +22,8 @@ public class Restaurante {
     public Restaurante() {
     }
 
-    public Restaurante(int Id, String RazonSocial, String Nombre, int Tipo, String Ciudad, String HoraApertura, String HoraCierre) {
-        this.Id = Id;
+    public Restaurante(String RazonSocial, String Nombre, int Tipo, String Ciudad, String HoraApertura, String HoraCierre) {
+        
         this.RazonSocial = RazonSocial;
         this.Nombre = Nombre;
         this.Tipo = Tipo;

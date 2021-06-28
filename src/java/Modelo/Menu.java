@@ -19,8 +19,8 @@ public class Menu {
     public Menu() {
     }
 
-    public Menu(int Id, int Tipo, String Nombre, float Precio) {
-        this.Id = Id;
+    public Menu( int Tipo, String Nombre, float Precio) {
+       
         this.Tipo = Tipo;
         this.Nombre = Nombre;
         this.Precio = Precio;
